@@ -1,7 +1,7 @@
-# Hi there, I'm [Alvin Astradinata] 👋
+# Hi there, I'm Alvin Astradinata 👋
 
 
-## Get in Touch
+## Social Media
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zlvinn)
 
