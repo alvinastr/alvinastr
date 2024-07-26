@@ -13,5 +13,4 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvinastr&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="alvinastr's Top Languages">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alvinastr&theme=tokyonight&hide_border=true" alt="alvinastr's Streak">
-  <img src="https://github-readme-stats.vercel.app/api?username=alvinastr&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="alvinastr's Stats">
 </div>
