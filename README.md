@@ -1,4 +1,4 @@
-# Hi there, I'm Alvin Astradinata 👋
+# Hello, Im Alvin Astradinata 👋
 
 ## Social Media
 
