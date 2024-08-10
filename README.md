@@ -1,4 +1,4 @@
-# Hello, Im Alvin Astradinata 👋
+![image](https://github.com/user-attachments/assets/27f54012-21c6-4902-8ae2-25c703c888de)# Hello, Im Alvin Astradinata 👋
 
 ## Social Media
 
@@ -11,6 +11,7 @@
 ## Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvinastr&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="alvinastr's Top Languages">
+  ![alvinastr's Streak](https://github-readme-streak-stats.herokuapp.com/?user=alvinastr&theme=tokyonight&hide_border=false)
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alvinastr&theme=tokyonight&hide_border=true" alt="alvinastr's Streak">
 </div>
+
