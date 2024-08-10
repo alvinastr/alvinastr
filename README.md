@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/27f54012-21c6-4902-8ae2-25c703c888de)# Hello, Im Alvin Astradinata 👋
+# Hello, Im Alvin Astradinata 👋
 
 ## Social Media
 
@@ -9,9 +9,8 @@
 </div>
 
 ## Stats
-![alvinastr's Streak](https://github-readme-streak-stats.herokuapp.com/?user=alvinastr&theme=tokyonight&hide_border=true)
 <div align="center">
-  ![alvinastr's Streak](https://github-readme-streak-stats.herokuapp.com/?user=alvinastr&theme=tokyonight&hide_border=true)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alvinastr&theme=tokyonight&hide_border=true" alt="alvinastr's top language">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alvinastr&theme=tokyonight&hide_border=true" alt="alvinastr's Streak">
 </div>
 
