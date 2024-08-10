@@ -9,9 +9,9 @@
 </div>
 
 ## Stats
-
+![alvinastr's Streak](https://github-readme-streak-stats.herokuapp.com/?user=alvinastr&theme=tokyonight&hide_border=true)
 <div align="center">
-  ![alvinastr's Streak](https://github-readme-streak-stats.herokuapp.com/?user=alvinastr&theme=tokyonight&hide_border=false)
+  ![alvinastr's Streak](https://github-readme-streak-stats.herokuapp.com/?user=alvinastr&theme=tokyonight&hide_border=true)
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alvinastr&theme=tokyonight&hide_border=true" alt="alvinastr's Streak">
 </div>
 
